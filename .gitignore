@@ -1,0 +1,16 @@
+# Ignore node modules
+node_modules/
+
+# Ignore Next build output
+.next/
+
+# Ignore environment variables
+.env
+
+# Ignore editor settings
+.vscode/
+.idea/
+
+# Ignore log files and archives
+*.log
+*.tgz
