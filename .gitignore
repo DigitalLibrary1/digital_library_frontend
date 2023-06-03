@@ -11,9 +11,6 @@ node_modules/
 .vscode/
 .idea/
 
-# VS code history
-.history
-
 # Ignore log files and archives
 *.log
 *.tgz
