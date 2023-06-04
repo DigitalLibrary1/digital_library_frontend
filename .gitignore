@@ -10,6 +10,7 @@ node_modules/
 # Ignore editor settings
 .vscode/
 .idea/
+.history
 
 # Ignore log files and archives
 *.log

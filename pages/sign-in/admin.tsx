@@ -4,7 +4,7 @@ function SignIn() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = async (e: any) => {
     e.preventDefault();
     // Authenticate the user using your backend API
     const response = await fetch("/")
